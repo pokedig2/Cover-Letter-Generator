@@ -15,12 +15,13 @@
     "activities": {
         "chibiclicker": "I developed a clicker and rpg mobile game called Chibi Clicker with international players and ad revenue. In the process of developing this app my team and I did multiple professional pitches to angel investors in the Central Valley. ",
         "tutoring": "Tutored computer science students on how to construct detailed and functional code in topics ranging from data structures to cyber-security.",
-        "woof": "For my senior project I worked in a team with seven other people to develop a mobile application in android studios utilizing Flutter, Dart, Firebase, and MySQL that allowed for users to post to multiple social medias from one app. In order to do this we compacted and translated information inputted into our app to respective social medias using api calls. "
+        "woof": "For my senior project I worked in a team with seven other people to develop a mobile application in android studios utilizing Flutter, Dart, Firebase, and MySQL that allowed for users to post to multiple social medias from one app. In order to do this we compacted and translated information inputted into our app to respective social medias using api calls. ",
+        "placeholder": ""
     },
-    "company_name": "test",
+    "company_name": "pop",
     "first_coop": "",
     "phone": "(714) 794-8647",
-    "position": "test",
+    "position": "pop",
     "address": "Long Beach, CA",
     "availability_time": 12
 }

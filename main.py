@@ -97,11 +97,13 @@ second_coop_obj = helper.format_alignment(second_coop_obj)
 activities_obj = document.add_paragraph()
 activities_obj = helper.format_alignment(activities_obj)
 activities = helper.askForChoices(activities, "Choose extracurricular activities")
-activity_string = "Beside coop experience, {}. Additionally, {}. {}. Last but not least, {}."
-activities = {'a': '1', 'b': '2', 'c': '3', 'd': '4'}
-activiy_para = activity_string.format(*activities)
-
-activities_obj.add_run(activiy_para)
+print(activities)
+#Whatever ill just put it in manually for now
+#activity_string = f"Beside coop experience, {}. Additionally, {}. {}. Last but not least, {}."
+activity_string = f"Besides work experience, {activities[0]}"
+#activities = {'a': '1', 'b': '2', 'c': '3', 'd': '4'}
+activity_para = activity_string.format(*activities)
+activities_obj.add_run(activity_para)
 
 ##############FINAL PARAGRAPH
 final_obj = document.add_paragraph()
