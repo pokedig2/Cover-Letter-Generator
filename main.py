@@ -89,9 +89,9 @@ second_coop_obj.add_run(second_coop)
 second_coop_obj = helper.format_alignment(second_coop_obj)
 
 #First coop
-first_coop_obj = document.add_paragraph()
-first_coop_obj = helper.format_alignment(first_coop_obj)
-first_coop_obj.add_run(first_coop)
+#first_coop_obj = document.add_paragraph()
+#first_coop_obj = helper.format_alignment(first_coop_obj)
+#first_coop_obj.add_run(first_coop)
 
 ##############ACTIVITIES
 activities_obj = document.add_paragraph()
