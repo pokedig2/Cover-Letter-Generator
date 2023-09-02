@@ -5,7 +5,7 @@
         "typical": "I am writing to apply for the {position} position with {company_name}. I am a recent computer science graduate at Cal State Long Beach and I have very strong interests in software development; I can contribute to the position with my self-driven software knowledge as evidenced by my coop experience and my pursuit of various extracurricular activities. "
     },
     "available": "",
-    "third_coop": "In my most recent job, I worked as a computer science tutor for a year and a half teaching my peers and other students about fundamentals in data structures, object-oriented languages, cyber-security, and much more. I worked closely with these students both in-person and over zoom during the pandemic. This job helped to reinforce the material I learned from my own coursework. ",
+    "third_coop": "In my most recent job, I worked as a computer science tutor for 3 semesters teaching my peers and other students about fundamentals in data structures, object-oriented languages, cyber-security, and much more. I worked closely with these students both in-person and over zoom during the pandemic. This job helped to reinforce the material I learned from my own coursework. ",
     "github": "https://github.com/pokedig2",
     "closing": "I would like to thank you very much for considering my application, and I greatly look forward to an opportunity to interview for the position offered by {company_name}. I can be reached by phone at {phone} or by email at {email}. For more information about me, please visit: {website}.",
     "website": "https://www.linkedin.com/in/destin-byrd/",
@@ -15,13 +15,13 @@
     "activities": {
         "chibiclicker": "I developed a clicker and rpg mobile game called Chibi Clicker with international players and ad revenue. In the process of developing this app my team and I did multiple professional pitches to angel investors in the Central Valley. ",
         "tutoring": "Tutored computer science students on how to construct detailed and functional code in topics ranging from data structures to cyber-security.",
-        "woof": "For my senior project I worked in a team with seven other people to develop a mobile application in android studios utilizing Flutter, Dart, Firebase, and MySQL that allowed for users to post to multiple social medias from one app. In order to do this we compacted and translated information inputted into our app to respective social medias using api calls. ",
+        "woof": "In my senior year I worked in a team with seven other people using software lifecycle tools such as Jira, Agile methodologies, and version control to develop a mobile application in Android Studio utilizing Flutter, Dart, Firebase, and MySQL that allowed for users to post to multiple social medias from one app. In order to do this we compacted and translated information inputted into our app to respective social medias using api calls. ",
         "placeholder": ""
     },
-    "company_name": "pop",
+    "company_name": "ClimateAi",
     "first_coop": "",
     "phone": "(714) 794-8647",
-    "position": "pop",
+    "position": "Software Engineering Intern",
     "address": "Long Beach, CA",
     "availability_time": 12
 }
