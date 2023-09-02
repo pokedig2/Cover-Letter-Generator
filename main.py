@@ -134,6 +134,11 @@ save_to_path = save_dir + save_file_name
 
 print("Save to:", save_to_path)
 
+try:
+    os.remove(save_file_name + ".pdf")
+except FileNotFoundError:
+    print("No file to delete.")
+
 document.save(save_to_path)
 
 convert(save_file_name)
