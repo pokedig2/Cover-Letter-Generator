@@ -5,13 +5,13 @@ from docx import Document
 from docx.shared import Inches
 # from docx.enum.text import WD_ALIGN_PARAGRAPH
 
-name = "Duc Nguyen"
-address = "Victoria BC"
-phone = "250-884-6325"
-mail = "dukeng@uvic.ca"
+name = "Destin Byrd"
+address = "Long Beach CA"
+phone = "(714) 794-8647‬"
+mail = "destin.byrd@outlook.com"
 
 def format_size_and_font(paraObj):
-    paraObj.font.size = 
+    paraObj.font.size = 12
 
 
 document = Document()

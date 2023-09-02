@@ -1,27 +1,26 @@
 {
     "open_para": {
-        "web": "I am writing to apply to the {position} position with {company_name}. I am a forth year a Computer Science student at the University of Victoria and I have very strong interests in web development; I can contribute to the position with my self-driven software knowledge as evidenced by my webdev coop experience and various webapp projects that I have built and published. ",
-        "game": "I am writing to apply to the {position} position with {company_name}. I am a forth year Computer Science student at the University of Victoria and I have a passion in game development as evidenced by the games I have created and published as well as my coop experiences. I am confident that I can be a valuable member of your {company_name} team.",
-        "typical": "I am writing to apply to the {position} position with {company_name}. I am a forth year a Computer Science student at the University of Victoria and I have very strong interests in software development; I can contribute to the position with my self-driven software knowledge as evidenced by my coop experience and my pursuit of various extracurricular activities. "
+        "softwaredev": "I am writing to apply for the {position} position with {company_name}. I am a recent computer science graduate at Cal State Long Beach and I have very strong interests in software development; I can contribute to the position with my self-driven software knowledge as evidenced by my extensive in-school development experience and various software projects that I have built and published. ",
+        "cybersecurity": "I am writing to apply for the {position} position with {company_name}. I am a recent computer science graduate at Cal State Long Beach and I have a passion in cyber-security as evidenced by the pen-testing virus I created and my various coursework in the field. I am confident that I can be a valuable member of your {company_name} team.",
+        "typical": "I am writing to apply for the {position} position with {company_name}. I am a recent computer science graduate at Cal State Long Beach and I have very strong interests in software development; I can contribute to the position with my self-driven software knowledge as evidenced by my coop experience and my pursuit of various extracurricular activities. "
     },
     "available": " I am available for up to {availability_time} months coop.",
-    "third_coop": "In my most recent coop, I worked as a software engineer intern for the Trace team of Google Cloud Platform at Google. I made a search bar with customizable search fields that helps with searching and boosted up the search traffic by 20 percent. Additionally, I developed an end-to-end feature to suggest the most common data for each user and used to autocomplete text search. This project enabled me to use various programming languages to write software that could scale at massive levels and software architecture and data processing pipelines. ",
-    "github": "https://github.com/dukeng/",
-    "closing": "I would like to thank you very much for considering my application, and I would greatly look forward to an opportunity to interview for the position offered by {company_name}. I can be reached by phone at {phone} or by email at {email}. For more information about me, please visit: {website}.",
-    "website": "https://dukeng.github.io/",
-    "email": "dukeng@uvic.ca",
-    "second_coop": "In the summer of 2017, I worked as a software development engineer for Abebooks, an  Amazon Company for four months. I used Python to prototype the integration of a potential online payment service into the current systems to determine the feasibility for future business between the two companies. I tested the payment provider\u2019s API, participated in evaluating risks and security loopholes and negotiating for customized features. Besides, I developed ecommerce features using Groovy with Spring MVC, JUnit, AWS: S3, SQS and databases such as PostgreSQL and Oracle. ",
-    "name": "Duc Nguyen",
+    "third_coop": "In my most recent job, I worked as a computer science tutor for about a year and a half teaching my peers and other students about fundamentals in data structures, object-oriented languages, cyber-security, and much more. I worked closely with these students in-person and over zoom during the pandemic which helped to reinforce the material I learned from my own coursework. ",
+    "github": "https://github.com/pokedig2",
+    "closing": "I would like to thank you very much for considering my application, and I greatly look forward to an opportunity to interview for the position offered by {company_name}. I can be reached by phone at {phone} or by email at {email}. For more information about me, please visit: {website}.",
+    "website": "https://www.linkedin.com/in/destin-byrd/",
+    "email": "destin.byrd@outlook.com",
+    "second_coop": "In the second semester of my sophomore year I worked closely with Citi Ventures in Citi Bank where I completed a 6-week program meeting with executive professionals to outline a new product for a $10 million+ project and my ideas were implemented into their product.",
+    "name": "Destin Byrd",
     "activities": {
-        "coursesearchoptimizer": "I used Chrome Extension API and JavaScript to create an extension that helps UVic students register for courses easily",
-        "battlesnake2018": "I competed in the 2018 Battlesnake AI competition to build a C++ snake to fight other snakes and won the first prize of $1000",
-        "happylittlevillage": "I created an Android game application which is published on GooglePlay and has achieved 500 downloads",
-        "hackUvic2017": "I created a web application in 24 hours that allows user to post and view places of free food using GoogleMap API, Python and PostgreSQL that later made me win the Sponsor Prize at the UVic Hacks 2017"
+        "chibiclicker": "I developed a clicker and rpg mobile game called Chibi Clicker with international players and ad revenue. In the process of developing this app my team and I did multiple professional pitches to angel investors in the Central Valley. ",
+        "tutoring": "Tutored computer science students on how to construct detailed and functional code in topics ranging from data structures to cyber-security.",
+        "woof": "For my senior project I worked in a team with seven other people to develop a mobile application in android studios utilizing flutter, dart, firebase, and mySQL that allowed for users to post to multiple social medias from one app. In order to do this we compacted and translated information inputted into our app to respective social medias using api calls. "
     },
-    "company_name": "Pure Storage",
-    "first_coop": "My other work experience includes a four month coop term in September 2016 as a full stack web developer for RealtyServer System Inc. This company build online softwares serving multiple listing services for real estate business. My duties included implementing new backend features and functionalities for various real estate websites. I learnt technology such as Java Servlet, Velocity template engine and Javascript, jQuery for frontend styling and RESTful API.",
-    "phone": "250-884-6325",
-    "position": "Software Engineer, Full Stack",
-    "address": "Victoria, BC",
-    "availability_time": 8
+    "company_name": "ClimateAi",
+    "first_coop": "",
+    "phone": "(714) 794-8647",
+    "position": "Software Engineer",
+    "address": "Long Beach, CA",
+    "availability_time": 12
 }

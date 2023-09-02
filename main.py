@@ -55,7 +55,7 @@ contact_info = document.add_paragraph()
 address_obj = contact_info.add_run(address + " , ")
 phone_obj = contact_info.add_run(phone + " , ")
 mail_obj = contact_info.add_run(email)
-website_obj = contact_info.add_run("\n" + "Website:" + website)
+#website_obj = contact_info.add_run("\n" + "Website:" + website)
 github_obj = contact_info.add_run("\n" + "Github:" + github)
 
 document.add_heading("_" * 90, 6)
