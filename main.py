@@ -8,6 +8,8 @@ import json, re, os
 from pprint import pprint
 import helper
 
+#C
+
 ############## CONFIG
 # detail file goes here
 info = "sample.json"

@@ -1,4 +1,5 @@
-
+# Destin Byrd
+# Forked from https://github.com/qqqstuv/Cover-Letter-Generator under MIT license
 # Cover Letter Generator
 
 On applying for jobs, it is difficult to keep track of cover letters you send out. Quite often, the amount of job application can make writing a cover letter error prone and small mistakes such as wrong company name, typos and formatting can sometimes cost you an opportunity to getting your dream job.
@@ -59,6 +60,9 @@ Here is my core structure of the cover letter
 ## Built With
 
 * [python-docx](https://python-docx.readthedocs.io/en/latest/) - python doc library
+* [docx2pdf] - (Need microsoft office)
+
+* Depreciated
 * [abiword](https://www.abisource.com/) - Convert word to pdf
 
 ## Future Development (TODOs)
