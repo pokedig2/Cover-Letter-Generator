@@ -1,5 +1,6 @@
 from docx import Document
 from docx.shared import Inches, Cm
+from docx2pdf import convert
 # from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.shared import Pt 
 import datetime
@@ -55,8 +56,8 @@ contact_info = document.add_paragraph()
 address_obj = contact_info.add_run(address + " , ")
 phone_obj = contact_info.add_run(phone + " , ")
 mail_obj = contact_info.add_run(email)
-#website_obj = contact_info.add_run("\n" + "Website:" + website)
-github_obj = contact_info.add_run("\n" + "Github:" + github)
+website_obj = contact_info.add_run("\n" + "Linkedin: " + website)
+github_obj = contact_info.add_run("\n" + "Github: " + github)
 
 document.add_heading("_" * 90, 6)
 
@@ -106,10 +107,12 @@ activities_obj.add_run(activiy_para)
 final_obj = document.add_paragraph()
 final_obj = helper.format_alignment(final_obj)
 final_obj.add_run(helper.format_fill_in_info(closing, data))
+'''
 availability = helper.askYesNo("Availability: options are (4, 8, 12 or 16) months. n for no")
 if availability:
     data["availability_time"] = availability
-    final_obj.add_run(helper.format_fill_in_info(data["available"], data))    
+    final_obj.add_run(helper.format_fill_in_info(data["available"], data))  
+'''
 
 ##############CLOSING
 closing_obj= document.add_paragraph()
@@ -131,8 +134,15 @@ print("Save to:", save_to_path)
 
 document.save(save_to_path)
 
-os.system("abiword --to=pdf " + save_to_path) # Convert to pdf using abiword
-os.system("rm -rf " + save_to_path) # Delete the doc file
+convert(save_file_name)
+convert(save_file_name, save_file_name + ".pdf")
+convert(save_dir)
+
+os.remove(save_to_path)
+print("Docx filed deleted.")
+
+#os.system("abiword --to=pdf " + save_to_path) # Convert to pdf using abiword
+#os.system("rm -rf " + save_to_path) # Delete the doc file
 
 with open(info, 'w') as outfile:
     json.dump(data, outfile, indent=4)

@@ -4,8 +4,8 @@
         "cybersecurity": "I am writing to apply for the {position} position with {company_name}. I am a recent computer science graduate at Cal State Long Beach and I have a passion in cyber-security as evidenced by the pen-testing virus I created and my various coursework in the field. I am confident that I can be a valuable member of your {company_name} team.",
         "typical": "I am writing to apply for the {position} position with {company_name}. I am a recent computer science graduate at Cal State Long Beach and I have very strong interests in software development; I can contribute to the position with my self-driven software knowledge as evidenced by my coop experience and my pursuit of various extracurricular activities. "
     },
-    "available": " I am available for up to {availability_time} months coop.",
-    "third_coop": "In my most recent job, I worked as a computer science tutor for about a year and a half teaching my peers and other students about fundamentals in data structures, object-oriented languages, cyber-security, and much more. I worked closely with these students in-person and over zoom during the pandemic which helped to reinforce the material I learned from my own coursework. ",
+    "available": "",
+    "third_coop": "In my most recent job, I worked as a computer science tutor for a year and a half teaching my peers and other students about fundamentals in data structures, object-oriented languages, cyber-security, and much more. I worked closely with these students in-person and over zoom during the pandemic which helped to reinforce the material I learned from my own coursework. ",
     "github": "https://github.com/pokedig2",
     "closing": "I would like to thank you very much for considering my application, and I greatly look forward to an opportunity to interview for the position offered by {company_name}. I can be reached by phone at {phone} or by email at {email}. For more information about me, please visit: {website}.",
     "website": "https://www.linkedin.com/in/destin-byrd/",
@@ -17,10 +17,10 @@
         "tutoring": "Tutored computer science students on how to construct detailed and functional code in topics ranging from data structures to cyber-security.",
         "woof": "For my senior project I worked in a team with seven other people to develop a mobile application in android studios utilizing flutter, dart, firebase, and mySQL that allowed for users to post to multiple social medias from one app. In order to do this we compacted and translated information inputted into our app to respective social medias using api calls. "
     },
-    "company_name": "ClimateAi",
+    "company_name": "test",
     "first_coop": "",
     "phone": "(714) 794-8647",
-    "position": "Software Engineer",
+    "position": "test",
     "address": "Long Beach, CA",
     "availability_time": 12
 }
